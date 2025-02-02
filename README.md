@@ -5,6 +5,7 @@ This repository contains preprocessing scripts for the Titanic dataset. The prep
 
 ## Dataset
 The Titanic dataset contains information about passengers, including their demographics, ticket details, and survival status. The dataset is commonly used for classification tasks such as predicting survival based on different features.
+link:  https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 
 ## Contributing
