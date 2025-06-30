@@ -13,7 +13,7 @@ The Titanic dataset contains information about passengers, including their demog
 It is commonly used for classification tasks such as predicting survival based on features like age, gender, class, etc.
 
 **🔗 Dataset Link:**  
-https://www.kaggle.com/datasets/yasserh/titanic-dataset
+https://www.kaggle.com/datasets/zainmahmod/pakistan-used-cars-2025
 
 **📁 Folder:**  
 `/preprocessing` — contains a Jupyter notebook with all preprocessing steps including handling missing values, feature encoding, and scaling.
