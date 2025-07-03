@@ -105,4 +105,4 @@ This project is licensed for educational and research use only.
 
 ---
 
-Let me know if you'd like a Markdown file download or a GitHub version-ready push format.
+
