@@ -2,7 +2,7 @@ Here is the updated `README.md` with your requested changes:
 
 ---
 
-# 🚢 Data Preprocessing &  Web Scraping 
+#  Data Preprocessing &  Web Scraping 
 
 This repository contains preprocessing scripts and web scraping code for two projects:
 
