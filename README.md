@@ -1,4 +1,3 @@
-Here is the updated `README.md` with your requested changes:
 
 ---
 
