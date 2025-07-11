@@ -6,7 +6,7 @@
 This repository contains preprocessing scripts and web scraping code for two projects:
 
 1. **Titanic Dataset**
-2. **Web Scraping Datasets** (`PakWheels` and `ShopHive`)
+2. **Web Scraping Datasets** (`PakWheels`, `ShopHive`, and `Mega.pk`)
 
 ---
 
@@ -25,7 +25,7 @@ It is commonly used for classification tasks such as predicting survival based o
 
 ## 🕸️ Web Scraping
 
-This section includes two folders for different web-scraped datasets:
+This section includes multiple folders for different web-scraped datasets:
 
 ### 🛻 PakWheels Used Cars Dataset
 
@@ -46,6 +46,24 @@ Data was scraped from [ShopHive.com](https://www.shophive.com) to collect produc
 
 **📁 Folder:**
 `/WebScraping/ShopHive` — contains Python scripts and a JSON file with the scraped data.
+
+---
+
+### 🖥️ Mega.pk Dataset
+
+This dataset was scraped from [Mega.pk](https://www.mega.pk), covering all product categories including laptops, tablets, mobiles, and other electronics.
+
+The scraper:
+- Loops through **all categories**
+- Scrapes **all pages** within each category
+- Visits **every product page**
+- Extracts: `title`, `price` (as integer), `image_url`, `product URL`, and `category`
+- Saves the data into a structured **JSON file**
+
+**📁 Folder:**
+`/WebScraping/Mega.pk` — contains:
+- The complete scraping Python script
+- Output: `mega_products.json` (raw data)
 
 ---
 
